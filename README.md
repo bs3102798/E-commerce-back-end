@@ -6,7 +6,7 @@ my motivation for this project was to create a pathway for information that can 
     mysql2
     sequelize
 
-# Installation
+
 # Demonstration video
 
 https://drive.google.com/file/d/1cSOgSVrDl_AeDW_R7epMeSzxKjFYMuTa/view
