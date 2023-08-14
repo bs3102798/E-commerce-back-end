@@ -6,11 +6,11 @@ my motivation for this project was to create a pathway for information that can 
     mysql2
     sequelize
 
-#Demonstration video
+# Demonstration video
 
 https://drive.google.com/file/d/1cSOgSVrDl_AeDW_R7epMeSzxKjFYMuTa/view
 
-#How to run
+# How to run
 IN the intergreated terminaal 
 run mysql -u root -p
 source db/schema.sql
