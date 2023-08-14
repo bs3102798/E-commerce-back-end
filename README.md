@@ -12,7 +12,7 @@ my motivation for this project was to create a pathway for information that can 
 https://drive.google.com/file/d/1cSOgSVrDl_AeDW_R7epMeSzxKjFYMuTa/view
 
 
-# Installation
+
 # How to run
 IN the intergreated terminaal 
 run mysql -u root -p
