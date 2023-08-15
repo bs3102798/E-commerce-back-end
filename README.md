@@ -14,12 +14,12 @@ https://drive.google.com/file/d/1cSOgSVrDl_AeDW_R7epMeSzxKjFYMuTa/view
 
 
 # How to run
-IN the intergreated terminaal 
-run mysql -u root -p
-source db/schema.sql
-exit with \q
-run npm run seed
-run npm run watch nodemon
-once the application is runing use the localhost in Insomnia 
-then click send which done correctly the infomaton should be seen
+-In the intergreated terminaal 
+-run mysql -u root -p
+-source db/schema.sql
+-exit with \q
+-run npm run seed
+-run npm run watch nodemon
+-once the application is runing use the localhost in Insomnia 
+-then click send which done correctly the infomaton should be seen
 
